@@ -1,3 +1,44 @@
 nav {
+  font-family: "Lora",sans-serif;
+  width: 25%;
+  padding: 15px;
+  margin: 10px;
+  box-sizing: border-box;
   float: left;
+}
+#rightSidebar {
+  font-family: "Lora",sans-serif;
+  width: 25%;
+  padding: 15px;
+  margin: 10px;
+  box-sizing: border-box;
+  float: left;
+}
+#mainContent {
+font-family: "Lora",sans-serif;
+float: left;
+box-sizing:border-box;
+width: 43%;
+padding: 15px;
+border-left: 5px #52637B solid;
+border-right: 5px #52637B solid;
+
+}
+#image1 {
+  float: right;
+}
+header {
+  font-family: "Lora",sans-serif;
+  margin: auto;
+  padding: 15px;
+  box-sizing:border-box;
+  width: 100%;
+  background-color: #52637B;
+  text-align: center;
+}
+h1{
+  font-size:
+}
+#wrapper {
+  width:100%;
 }
